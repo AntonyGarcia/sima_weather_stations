@@ -305,3 +305,4 @@ void enableExtRoot() {
   fstab.runShellCommand(F("uci commit"));
 
   Serial.println(F("enabled"));
+}
