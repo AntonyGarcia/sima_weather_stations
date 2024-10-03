@@ -70,3 +70,5 @@ opkg install python3
 opkg install python3-pip
 opkg install python3-sqlite3
 ```
+
+Con esto se instalarán todos los paquetes necesarios para el funcionamiento del sistema.
